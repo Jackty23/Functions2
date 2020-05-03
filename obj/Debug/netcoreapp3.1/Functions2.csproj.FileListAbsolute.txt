@@ -1,0 +1,13 @@
+C:\Users\jackt\Desktop\Functions2\bin\Debug\netcoreapp3.1\Functions2.exe
+C:\Users\jackt\Desktop\Functions2\bin\Debug\netcoreapp3.1\Functions2.deps.json
+C:\Users\jackt\Desktop\Functions2\bin\Debug\netcoreapp3.1\Functions2.runtimeconfig.json
+C:\Users\jackt\Desktop\Functions2\bin\Debug\netcoreapp3.1\Functions2.runtimeconfig.dev.json
+C:\Users\jackt\Desktop\Functions2\bin\Debug\netcoreapp3.1\Functions2.dll
+C:\Users\jackt\Desktop\Functions2\bin\Debug\netcoreapp3.1\Functions2.pdb
+C:\Users\jackt\Desktop\Functions2\obj\Debug\netcoreapp3.1\Functions2.csprojAssemblyReference.cache
+C:\Users\jackt\Desktop\Functions2\obj\Debug\netcoreapp3.1\Functions2.csproj.CoreCompileInputs.cache
+C:\Users\jackt\Desktop\Functions2\obj\Debug\netcoreapp3.1\Functions2.AssemblyInfoInputs.cache
+C:\Users\jackt\Desktop\Functions2\obj\Debug\netcoreapp3.1\Functions2.AssemblyInfo.cs
+C:\Users\jackt\Desktop\Functions2\obj\Debug\netcoreapp3.1\Functions2.dll
+C:\Users\jackt\Desktop\Functions2\obj\Debug\netcoreapp3.1\Functions2.pdb
+C:\Users\jackt\Desktop\Functions2\obj\Debug\netcoreapp3.1\Functions2.genruntimeconfig.cache
